@@ -1,1 +1,2 @@
 Another new file in git
+This is the second line I've put to our text file
